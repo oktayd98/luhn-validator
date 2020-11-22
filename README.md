@@ -5,7 +5,7 @@ Credit card and IMEI number validation using luhn algorithm
       npm install luhn-validator
   
 ## Usage
-    const luhn = reqiure("luhn-validator");
+    const luhn = require("luhn-validator");
       
     luhn.validateCard("12345678901234");
     luhn.validateImei("1234567890123459);
