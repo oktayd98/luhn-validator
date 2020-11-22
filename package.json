@@ -1,0 +1,25 @@
+{
+  "name": "luhn-validator",
+  "version": "1.0.0",
+  "description": "Credit card and IMEI number validation using luhn algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oktayd98/luhn-validator.git"
+  },
+  "keywords": [
+    "luhn",
+    "credit-card",
+    "imei",
+    "validation"
+  ],
+  "author": "oktayd98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oktayd98/luhn-validator/issues"
+  },
+  "homepage": "https://github.com/oktayd98/luhn-validator"
+}
